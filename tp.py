@@ -43,9 +43,9 @@ class Tp:
     def path(self, reference):
         '''return the corresponding path
         if path was not found, return the current dir .'''
-        if self.data[reference] is not None:
+        try:
             path = self.data[reference]
-        else:
+        except KeyError:
             path = '.'
         return path
 
