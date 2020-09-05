@@ -1,10 +1,13 @@
+aidemo: /Users/alexchen/local/classroom/summer2020/buaa_aiss/research/demo
 app: /Applications
 au18: /Users/alexchen/local/classroom/autumn2018
 au19: /Users/alexchen/local/classroom/autumn2019
 au20: /Users/alexchen/local/classroom/autumn2020
+class: /Users/alexchen/local/classroom
 convex: /Users/alexchen/local/classroom/summer2020/stanford_ee364A
 cvx: /Users/alexchen/local/classroom/summer2020/stanford_ee364A
 dl: /Users/alexchen/local/classroom/summer2020/stanford_cs230
+dot: /Users/alexchen/.dotfiles
 lev: /Users/alexchen/toolbox/lever
 log: /Users/alexchen/local/classroom/autumn2020/logs
 ml: /Users/alexchen/local/classroom/summer2020/stanford_cs229
