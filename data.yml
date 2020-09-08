@@ -13,7 +13,9 @@ lev: /Users/alexchen/toolbox/lever
 log: /Users/alexchen/local/classroom/autumn2020/logs
 ml: /Users/alexchen/local/classroom/summer2020/stanford_cs229
 model: /Users/alexchen/local/classroom/autumn2020/natmodel2020
+opt: /Users/alexchen/local/classroom/autumn2020/optimization
 pde: /Users/alexchen/local/classroom/autumn2020/pde
 sp19: /Users/alexchen/local/classroom/spring2019
 sp20: /Users/alexchen/local/classroom/spring2020
 su20: /Users/alexchen/local/classroom/summer2020
+top: /Users/alexchen/local/classroom/autumn2020/topology
