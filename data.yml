@@ -1,8 +1,11 @@
 aidemo: /Users/alexchen/local/classroom/summer2020/buaa_aiss/research/demo
+alg: /Users/alexchen/local/classroom/autumn2020/algebra
+algn: /Users/alexchen/local/classroom/autumn2020/algebra/note
 app: /Applications
 au18: /Users/alexchen/local/classroom/autumn2018
 au19: /Users/alexchen/local/classroom/autumn2019
 au20: /Users/alexchen/local/classroom/autumn2020
+cla: /Users/alexchen/local/classroom
 class: /Users/alexchen/local/classroom
 convex: /Users/alexchen/local/classroom/summer2020/stanford_ee364A
 cvx: /Users/alexchen/local/classroom/summer2020/stanford_ee364A
@@ -14,7 +17,10 @@ ml: /Users/alexchen/local/classroom/summer2020/stanford_cs229
 model: /Users/alexchen/local/classroom/autumn2020/natmodel2020
 opt: /Users/alexchen/local/classroom/autumn2020/optimization
 pde: /Users/alexchen/local/classroom/autumn2020/pde
+semi: /Users/alexchen/local/classroom/autumn2020/seminar
+seminar: /Users/alexchen/local/classroom/autumn2020/seminar
 sp19: /Users/alexchen/local/classroom/spring2019
 sp20: /Users/alexchen/local/classroom/spring2020
 su20: /Users/alexchen/local/classroom/summer2020
 top: /Users/alexchen/local/classroom/autumn2020/topology
+tp: /Users/alexchen/toolbox/tp
