@@ -1,8 +1,11 @@
 aidemo: /Users/alexchen/local/classroom/summer2020/buaa_aiss/research/demo
+alg: /Users/alexchen/local/classroom/autumn2020/algebra
+algn: /Users/alexchen/local/classroom/autumn2020/algebra/note
 app: /Applications
 au18: /Users/alexchen/local/classroom/autumn2018
 au19: /Users/alexchen/local/classroom/autumn2019
 au20: /Users/alexchen/local/classroom/autumn2020
+cla: /Users/alexchen/local/classroom
 class: /Users/alexchen/local/classroom
 cnnode: /Users/alexchen/local/classroom/summer2020/buaa_aiss/research/cnn-ode
 comp: /Users/alexchen/local/classroom/autumn2020/natmodel2020/contest/comp
@@ -19,9 +22,12 @@ opt: /Users/alexchen/local/classroom/autumn2020/optimization
 optn: /Users/alexchen/local/classroom/autumn2020/optimization/note
 pde: /Users/alexchen/local/classroom/autumn2020/pde
 pden: /Users/alexchen/local/classroom/autumn2020/pde/note
+semi: /Users/alexchen/local/classroom/autumn2020/seminar
+seminar: /Users/alexchen/local/classroom/autumn2020/seminar
 sp19: /Users/alexchen/local/classroom/spring2019
 sp20: /Users/alexchen/local/classroom/spring2020
 su20: /Users/alexchen/local/classroom/summer2020
 thesis: /Users/alexchen/local/classroom/autumn2020/natmodel2020/contest/thesis
 top: /Users/alexchen/local/classroom/autumn2020/topology
 topn: /Users/alexchen/local/classroom/autumn2020/topology/note
+tp: /Users/alexchen/toolbox/tp
