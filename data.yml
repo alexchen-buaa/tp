@@ -5,6 +5,8 @@ au19: /Users/alexchen/local/classroom/autumn2019
 au20: /Users/alexchen/local/classroom/autumn2020
 class: /Users/alexchen/local/classroom
 cnnode: /Users/alexchen/local/classroom/summer2020/buaa_aiss/research/cnn-ode
+comp: /Users/alexchen/local/classroom/autumn2020/natmodel2020/contest/comp
+contest: /Users/alexchen/local/classroom/autumn2020/natmodel2020/contest
 convex: /Users/alexchen/local/classroom/summer2020/stanford_ee364A
 cvx: /Users/alexchen/local/classroom/summer2020/stanford_ee364A
 dl: /Users/alexchen/local/classroom/summer2020/stanford_cs230
@@ -14,8 +16,12 @@ log: /Users/alexchen/local/classroom/autumn2020/logs
 ml: /Users/alexchen/local/classroom/summer2020/stanford_cs229
 model: /Users/alexchen/local/classroom/autumn2020/natmodel2020
 opt: /Users/alexchen/local/classroom/autumn2020/optimization
+optn: /Users/alexchen/local/classroom/autumn2020/optimization/note
 pde: /Users/alexchen/local/classroom/autumn2020/pde
+pden: /Users/alexchen/local/classroom/autumn2020/pde/note
 sp19: /Users/alexchen/local/classroom/spring2019
 sp20: /Users/alexchen/local/classroom/spring2020
 su20: /Users/alexchen/local/classroom/summer2020
+thesis: /Users/alexchen/local/classroom/autumn2020/natmodel2020/contest/thesis
 top: /Users/alexchen/local/classroom/autumn2020/topology
+topn: /Users/alexchen/local/classroom/autumn2020/topology/note

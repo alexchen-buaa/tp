@@ -1,7 +1,7 @@
 tp(){
 	if [[ $# -eq 0 ]]
 	then
-		python ${TP_INSTALL}/tp.py
+		cd $(fd -t d . $HOME | fzf)
 	elif [[ $# -eq 1 ]]
 	then
 		cd $(python ${TP_INSTALL}/path.py $1)
